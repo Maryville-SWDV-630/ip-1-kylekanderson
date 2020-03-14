@@ -1,3 +1,7 @@
+## SWDV-630: Object-Oriented Coding
+## Kyle Anderson
+## Week 1 Assignment
+
 ## 4) Explain the difference between interfaces and implementation.
 
 The difference between interfaces and implementation is one of the major benefits of Object-Oriented Programming. Interfaces describe the means in which objects interact with each other. They are the publicly exposed points of an object that are available for other objects to interact with. On the other hand, Implementation describes the internal workings of an object. These details are private and not visible to other objects.
